@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">La Ostia</string> ///Cambia aqui el nombre de la App
+    <string name="title"></string>
+    <string name="company_id"></string>
+    <string name="restaurant_id">https://www.camanolo7palmas.es</string> ///Cambia aqui la WEB
+</resources>
